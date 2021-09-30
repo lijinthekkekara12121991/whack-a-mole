@@ -1,0 +1,12 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "http://0.0.0.0:8080/",
+  "defaultCommandTimeout": 5000,
+  "env": {
+  },
+  "video": false,
+  "videoUploadOnPasses": false,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "testFiles": "**/*.spec.js"
+}
